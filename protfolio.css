@@ -563,6 +563,7 @@ cursor: pointer;
     flex-wrap: wrap;
     padding: 2rem 9%;
     background: var(--snd-bf-color);
+    margin-bottom:0;
 }
 
 .footer-text{
