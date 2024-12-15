@@ -678,31 +678,31 @@ cursor: pointer;
         }
 
         .skills >.skills-container{
-            width: 500px;
-            height: 350px;
+            width: 450px;
+            height: 300px;
         }
 
         .skills-container >.skills-box1 >.skills-item-1 >img{
-            height: 80px;
-            width: 80px;
+            height: 70px;
+            width: 70px;
         }
         .skills-container >.skills-box2 >.skills-item-2 >img{
-            height: 80px;
-            width: 80px;
+            height: 70px;
+            width: 70px;
         }
 
         .skills  >h2{
             margin-bottom: 3rem;
         }
 .skills >.skills-container >.skills-box1>.skills-item-1>h1{
-    font-size: 16px;
+    font-size: 14px;
 }
 .skills >.skills-container >.skills-box2>.skills-item-2>h1{
-    font-size: 16px;
+    font-size: 14px;
 }
         .project >h2{
 
-            margin-bottom: 3rem;
+            margin-bottom: 2.5rem;
 
         }
 
@@ -729,13 +729,13 @@ cursor: pointer;
     }
 
     .skills >.skills-container{
-        width: 450px;
-        height: 350px;
+        width: 400px;
+        height: 300px;
     }
 
     .skills-container >.skills-box1 >.skills-item-1 >img{
-        height: 70px;
-        width: 70px;
+        height: 60px;
+        width: 60px;
     }
     .skills-container >.skills-box2 >.skills-item-2 >img{
         height: 60px;
@@ -746,10 +746,10 @@ cursor: pointer;
         margin-bottom: 1rem;
     }
 .skills >.skills-container >.skills-box1>.skills-item-1>h1{
-font-size: 14px;
+font-size: 12px;
 }
 .skills >.skills-container >.skills-box2>.skills-item-2>h1{
-font-size: 14px;
+font-size: 12px;
 }
 
     .about-img img{
@@ -768,6 +768,32 @@ font-size: 14px;
     .contact >form >.input-box >input{
         width: 100%;
     }
+
+
+    .skills >.skills-container{
+        width: 400px;
+        height: 300px;
+    }
+
+    .skills-container >.skills-box1 >.skills-item-1 >img{
+        height: 60px;
+        width: 60px;
+    }
+    .skills-container >.skills-box2 >.skills-item-2 >img{
+        height: 60px;
+        width: 60px;
+    }
+
+    .skills  >h2{
+        margin-bottom: 1rem;
+    }
+.skills >.skills-container >.skills-box1>.skills-item-1>h1{
+font-size: 10px;
+}
+.skills >.skills-container >.skills-box2>.skills-item-2>h1{
+font-size: 10px;
+}
+
 }
 
 
