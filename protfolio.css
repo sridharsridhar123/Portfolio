@@ -30,6 +30,8 @@ body{
     background:var(--bg-color);
     color: var(--text-color);
     height:100vh;
+    margin-bottom:0;
+    padding-bottom:0;
 }
 
 section{
