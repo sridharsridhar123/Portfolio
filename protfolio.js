@@ -49,7 +49,7 @@ ScrollReveal({
 });
 
 ScrollReveal().reveal('.home-content,heading', { origin:'top'});
-ScrollReveal().reveal('.home-img,.skills-container,.project-box,.contact', { origin:'button'});
+ScrollReveal().reveal('.home-img,.skills-container', { origin:'button'});
 
 ScrollReveal().reveal('.home-contact h1,.about-img', { origin: 'left' });
 ScrollReveal().reveal('.home-contact p ,.about-content', { origin: 'right' });
