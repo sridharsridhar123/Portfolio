@@ -450,7 +450,7 @@ cursor: pointer;
 }
 
 .cont >.phone >h3{
-    font-size: 23px;
+    font-size: 18px;
     position: relative;
     right: 50px;
 }
@@ -460,7 +460,7 @@ cursor: pointer;
 }
 
 .cont >.phone >i{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .cont >.email {
@@ -471,7 +471,7 @@ cursor: pointer;
 
 
 .cont >.email>a{
-    font-size: 25px;
+    font-size: 18px;
     color: white;
     
 }
@@ -481,7 +481,7 @@ cursor: pointer;
 
 
 .cont >.email>i{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 .cont >.linkedin {
@@ -489,7 +489,7 @@ cursor: pointer;
     gap: 20px;
 }
 .cont >.linkedin >a{
-    font-size: 25px;
+    font-size: 18px;
     color: white;
 }
 .cont >.linkedin >a:hover{
@@ -498,7 +498,7 @@ cursor: pointer;
 
 
 .cont >.linkedin >i{
-    font-size: 30px;
+    font-size: 25px;
 }
 
 
