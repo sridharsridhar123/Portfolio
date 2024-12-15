@@ -776,17 +776,17 @@ font-size: 12px;
 
 
     .skills >.skills-container{
-        width: 400px;
-        height: 300px;
+        width: 350px;
+        height: 250px;
     }
 
     .skills-container >.skills-box1 >.skills-item-1 >img{
-        height: 60px;
-        width: 60px;
+        height: 50px;
+        width: 50px;
     }
     .skills-container >.skills-box2 >.skills-item-2 >img{
-        height: 60px;
-        width: 60px;
+        height: 50px;
+        width:50px;
     }
 
     .skills  >h2{
