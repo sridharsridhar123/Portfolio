@@ -735,8 +735,8 @@ cursor: pointer;
     }
 
     .skills >.skills-container{
-        width: 400px;
-        height: 300px;
+        width: 300px;
+        height: 2500px;
     }
 
     .skills-container >.skills-box1 >.skills-item-1 >img{
@@ -745,7 +745,7 @@ cursor: pointer;
     }
     .skills-container >.skills-box2 >.skills-item-2 >img{
         height: 60px;
-        width: 70px;
+        width: 60px;
     }
 
     .skills  >h2{
@@ -777,8 +777,8 @@ font-size: 12px;
 
 
     .skills >.skills-container{
-        width: 350px;
-        height: 250px;
+        width: 300px;
+        height: 200px;
     }
 
     .skills-container >.skills-box1 >.skills-item-1 >img{
